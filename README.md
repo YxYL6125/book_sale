@@ -50,7 +50,7 @@
 
 对于一个电子商务网站而言
 
-![image-20220313105757672](https://github.com/YxYL6125/Nameless_Project/blob/main/images/2.png)
+![业务关系](https://github.com/YxYL6125/Nameless_Project/blob/main/images/%E4%B8%9A%E5%8A%A1%E5%85%B3%E7%B3%BB.png)
 
 表1.图书信息表book_info（记录了任意一本图书商品的基本信息）
 
@@ -139,4 +139,4 @@
 
 表逆向结构图
 
-![对表关系](https://github.com/YxYL6125/Nameless_Project/blob/main/images/%E5%A4%9A%E8%A1%A8%E5%85%B3%E7%B3%BB.png)
+![多表关系](https://github.com/YxYL6125/Nameless_Project/blob/main/images/%E5%A4%9A%E8%A1%A8%E5%85%B3%E7%B3%BB.png)
